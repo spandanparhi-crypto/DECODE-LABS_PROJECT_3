@@ -1,0 +1,5 @@
+Cluster,Age,AnnualIncome_k,Tenure_Months,Recency_Days,Frequency_Purchases,MonetaryTotal,AvgOrderValue,NumWebPurchases,NumStorePurchases,NumCatalogPurchases,NumWebVisitsPerMonth,NumDealsPurchases,DiscountUsageRate,CartAbandonRate,ReturnRate,NumComplaints,LoyaltyPoints,EmailOpenRate,AppSessionMinPerMonth,SocialEngagementScore,WishlistItems,ReviewsWritten,CustomerServiceContacts,Spend_Electronics,Spend_Apparel,Spend_Grocery,Spend_HomeGoods,Spend_Beauty,ClusterSize,PctOfCustomers
+0,50.27,65.54,60.24,139.2,3.01,145.93,48.2,1.36,1.04,0.62,2.03,0.99,0.2,0.2,0.2,2.06,302.21,0.05,8.27,4.83,0.99,0.13,2.52,21.36,21.75,61.04,21.75,20.03,414,20.7
+1,44.84,110.85,47.6,8.01,29.07,4324.12,149.81,13.25,10.2,5.68,10.02,2.95,0.1,0.08,0.03,0.18,4270.22,0.53,92.43,35.7,6.01,4.95,0.56,1073.79,1088.49,368.44,1080.29,713.11,352,17.6
+2,40.89,72.71,33.14,31.82,11.34,742.77,67.0,4.99,3.99,2.37,8.24,4.13,0.25,0.2,0.08,0.47,1760.16,0.32,38.87,22.63,5.2,1.36,0.83,153.49,146.82,145.82,151.92,144.72,461,23.0
+3,32.01,55.46,22.2,12.46,19.25,857.48,46.16,8.65,6.71,3.93,19.48,9.77,0.48,0.4,0.13,0.72,1162.14,0.33,116.68,62.3,15.2,2.58,0.99,165.38,212.02,236.81,86.55,156.71,773,38.6
