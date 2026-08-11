@@ -94,7 +94,7 @@ Elbow Method      Silhouette Score
 
 ## 🚀 Live Local Dashboard
 
-[http://localhost:8501/](http://localhost:8501/)
+(http://localhost:8501/)
 
 Run the Streamlit application:
 
